@@ -2,6 +2,7 @@
 Open Source Audit Project on Git
 
 Name: Dhruv Kumar
+
 Course: Open Source Software
 
 Project Title: Open Source Audit of Git
